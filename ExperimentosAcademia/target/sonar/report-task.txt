@@ -1,0 +1,5 @@
+projectKey=com.lushobuscandoteam:lushodondeestamichifita
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.lushobuscandoteam:lushodondeestamichifita
+ceTaskId=AViTXfV07V2V1n-IUeva
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AViTXfV07V2V1n-IUeva
