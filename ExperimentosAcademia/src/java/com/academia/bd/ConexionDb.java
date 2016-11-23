@@ -19,7 +19,7 @@ public class ConexionDb {
         try{
             Class.forName("com.mysql.jdbc.Driver").newInstance();
             String url = "jdbc:mysql://localhost/Academia";
-            return DriverManager.getConnection(url,"root","rootM");
+            return DriverManager.getConnection(url,"root","root");
         }catch(SQLException e){
              throw new RuntimeException(e);
         }          
